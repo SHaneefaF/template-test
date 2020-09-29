@@ -1,0 +1,11 @@
+html{
+    box-sizing: border-box; /*Prevents padding from having extra height and extra width*/
+    /*When you add padding it will extend the width to more than it's original size and force it to have a horizontal bar hence we do box-sizing*/
+
+}
+
+body{
+    margin: 0;
+    min-height: 100vh; /*vh=view fort height, always stretch the background to the full height of the screen even if the content is not enough*/
+
+}
