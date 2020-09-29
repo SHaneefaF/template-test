@@ -1,2 +1,0 @@
-window.console.log('testing')    /*used when we call an API and see how our data is formated, we console log our data and pass it to BROWSER*/
-/*Our browser window=window and within the window we have console and this allows us to log certain data which we can see from JS in our browse*/
